@@ -17,7 +17,7 @@ The report consists of three (3) pages:
 ## Problem Statement
 •	What is the pattern of sales across the months yearly, does sales pattern varies yearly?
 
-•	Which of the shipping mode does most client frequently uses, which one can be scraped or enhanced
+•	Which of the shipping mode does most client frequently uses, which one can be scraped or enhanced?
 
 •	Which top 5 cities do we have most patronage/sales, how can we improve services to them
 
