@@ -23,7 +23,7 @@ The report consists of three (3) pages:
 
 •	Which bottom 5 cities do we have least sales, how can we improve patronage
 
-•	Which product category has the highest and least sales
+•	Which product category has the highest and least sales?
 
 •	Ask similar questions using business segments.
 
